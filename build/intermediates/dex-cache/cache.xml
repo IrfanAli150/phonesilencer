@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\pre-dexed\debug\classes-eeef284398a821a012127aea8704c50e2231af83.jar" />
+    </item>
+    <item
+        jar="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\pre-dexed\debug\classes-39cf70b865ef59ff504e6ce10f893b2370cd8de6.jar" />
+    </item>
+    <item
+        jar="F:\Software\new android sdk 2\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b735db7aa6919098a5942af9c2a7e17d3475a50d.jar" />
+    </item>
+    <item
+        jar="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4aad1d86209f74bc57238ee4000332375609d8cc.jar" />
+    </item>
+    <item
+        jar="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Software\Android\Android apps\android-play-location-master\android-play-location-master\PhoneSilencer\app\build\intermediates\pre-dexed\debug\classes-4965250ba802453d01493ec155eb564e6b7cb02a.jar" />
+    </item>
+
+</items>
